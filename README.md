@@ -1,2 +1,2 @@
 # fuzzy-octo-barnacle
-A nodogsplash puzzle splash page, many splashes available
+A nodogsplash puzzle splash page.
